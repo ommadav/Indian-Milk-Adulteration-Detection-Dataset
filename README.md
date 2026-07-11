@@ -73,20 +73,10 @@ This repository contains a comprehensive synthetic dataset for **Indian milk adu
 
 ```text
 Indian-Milk-Adulteration-Detection-Dataset/
-├── dataset/
-│   ├── milk_combined_full_dataset.csv
-│   ├── milk_adulteration_samples.csv
-│   ├── milk_adulterant_reference.csv
-│   └── indian_milk_companies_samples.csv
-├── notebooks/
-│   ├── EDA.ipynb
-│   └── Baseline_Model.ipynb
-├── images/
+├── milk_combined_full_dataset.csv
 ├── README.md
 ├── LICENSE
 ├── CITATION.cff
-├── CONTRIBUTING.md
-└── requirements.txt
 ```
 
 # 📂 Dataset Files
@@ -94,10 +84,6 @@ Indian-Milk-Adulteration-Detection-Dataset/
 | File | Description |
 |------|-------------|
 | milk_combined_full_dataset.csv | Master dataset |
-| milk_adulteration_samples.csv | Core ML dataset |
-| milk_adulterant_reference.csv | Reference standards |
-| indian_milk_companies_samples.csv | Brand-wise samples |
-
 ---
 
 # 🧪 Feature Groups
@@ -277,7 +263,7 @@ Released under **CC0 1.0 Universal**.
 # 📖 Citation
 
 ```text
-Madav, O.
+Om Madav
 Indian Milk Adulteration Detection Dataset.
 Synthetic Dataset for Machine Learning and Food Safety Research.
 Available on Kaggle:
