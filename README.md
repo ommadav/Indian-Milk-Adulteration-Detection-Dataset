@@ -75,8 +75,6 @@ This repository contains a comprehensive synthetic dataset for **Indian milk adu
 Indian-Milk-Adulteration-Detection-Dataset/
 ├── milk_combined_full_dataset.csv
 ├── README.md
-├── LICENSE
-├── CITATION.cff
 ```
 
 # 📂 Dataset Files
