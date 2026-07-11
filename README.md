@@ -74,6 +74,7 @@ This repository contains a comprehensive synthetic dataset for **Indian milk adu
 ```text
 Indian-Milk-Adulteration-Detection-Dataset/
 ├── milk_combined_full_dataset.csv
+├── indian-milk-adulteration-detection-model.ipynb
 ├── README.md
 ```
 
